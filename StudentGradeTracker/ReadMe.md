@@ -2,7 +2,7 @@
 
 ## Overview
 
-Student Grade Tracker is a console-based Java application that helps manage student records and grades efficiently. The application allows users to add, search, update, and delete student records while also generating summary statistics such as average, highest, and lowest scores.
+Student Grade Tracker is a console-based Java application that helps manage student records and grades efficiently. The application allows users to add, search, update and delete student records while also generating summary statistics such as average, highest and lowest scores.
 
 ## Features
 
@@ -22,7 +22,7 @@ Student Grade Tracker is a console-based Java application that helps manage stud
 * Java
 * HashMap Collection Framework
 * Object-Oriented Programming Concepts
-* VS Code / IntelliJ IDEA
+* VS Code
 
 ## Project Structure
 
