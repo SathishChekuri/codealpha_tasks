@@ -32,11 +32,7 @@ StudentGradeTracker/
 
 ├── README.md
 
-└── screenshots/
-
-    ├── output1.png
-
-    └── output2.png
+└── screenshots
 
 ## How to Run
 
